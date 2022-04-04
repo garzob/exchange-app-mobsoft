@@ -1,4 +1,4 @@
 package com.example.exchangeapp.persistence
 
-class ExchangeDao {
+class BankAccountDao {
 }
